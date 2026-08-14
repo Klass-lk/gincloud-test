@@ -6,6 +6,7 @@ import (
 
 	"github.com/klass-lk/ginboot"
 	"github.com/klass-lk/ginboot/runtime/lambda"
+	_ "github.com/klass-lk/ginboot/telemetry"
 	"github.com/klass-lk/test/internal/di"
 )
 
