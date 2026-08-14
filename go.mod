@@ -3,10 +3,10 @@ module github.com/klass-lk/test
 go 1.25.0
 
 require (
-	github.com/klass-lk/ginboot v1.23.1
-	github.com/klass-lk/ginboot/db/inmemory v1.23.1
-	github.com/klass-lk/ginboot/runtime/lambda v1.23.1
-	github.com/klass-lk/ginboot/telemetry v1.23.1
+	github.com/klass-lk/ginboot v1.23.2
+	github.com/klass-lk/ginboot/db/inmemory v1.23.2
+	github.com/klass-lk/ginboot/runtime/lambda v1.23.2
+	github.com/klass-lk/ginboot/telemetry v1.23.2
 )
 
 require (
